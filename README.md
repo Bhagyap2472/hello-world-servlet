@@ -27,3 +27,4 @@ webhook test
 09/06/2021-->Wednesday
 
 06/06/2021 --> Sunday
+06/10/2021 --> Tomorrow will be the lucky day
